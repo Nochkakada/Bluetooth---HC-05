@@ -24,11 +24,11 @@ void loop() {
     Serial.println(BT_data);
     delay(50);
   }
-/*if (BT_data=='F'){
+if (BT_data=='F'){
   digitalWrite(13,1);
   }
   else{
     digitalWrite(13,0);
-*/
+
   }
 
